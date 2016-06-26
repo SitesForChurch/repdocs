@@ -1,0 +1,10 @@
+site_name: Sitesfor.church Site Rep Documentation
+theme: readthedocs
+pages:
+- Docs: 
+  - Welcome and Recommendations: 'index.md'
+  - 1. Tooling Up - what you need to get started: 'tooling-up.md'
+  - 2. Setting Up - ten steps for every project: 'setting-up.md'
+  - 3. Settling Up - how payment works: 'settling-up.md'
+  - 4. Following Up - communicating with the client: 'following-up.md'
+  - 5. Powering Up - learning to do it all better: 'powering-up.md'
