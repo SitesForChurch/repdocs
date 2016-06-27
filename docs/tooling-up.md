@@ -60,5 +60,27 @@ Nitrous offers all the tooling you need to get started as a site-rep with sitesf
 
 After you have done several sites, you may want to move your process from the cloud to your own computer.  The steps for that will vary based on what kind of computer you have.  
 
-*Check back here for more content.*
+## On A Mac or Linux
+
+You need to have the following installed:
+
+* Git (not to be confused with github). 
+    - On a mac you must install the command line tools. (You can find a tutorial [here](http://railsapps.github.io/xcode-command-line-tools.html))
+    - On linux run `sudo apt-get install git` from the command line.
+* Ruby (This is installed on a mac by default - on linux run `sudo apt-get install ruby`).  You can check if it's installed by running `ruby -v` on the command line.
+* Jekyll - A ruby based static site generator.  You get it by running `gem install jekyll` after you confirm that ruby is installed.
+* Node - Download the installer at [nodejs.org](https://nodejs.org/en/).
+
+Once these three are installed, you'll have to clone the [master-theme repo](https://github.com/SitesForChurch/master-theme) from github, and then run the following commands:
+
+* `npm install` - This will install the local dependencies that don't come bundled in the repository.
+* `bower install` - This installs more dependencies that npm doesn't cover.
+
+That's it.  You can now edit the files using whatever text editor you want on your computer (I like Sublime Text - but atom and visual studio code are both great too.)  
+
+## On Windows
+
+Windows is a little more tricky.  It's not a friendly environment for the open source development tools that make up the modern web.  [They are working on fixing that](http://arstechnica.com/information-technology/2016/04/why-microsoft-needed-to-make-windows-run-linux-software/) through and a planned update to Windows 10 this summer is going to include linux command line tools.  When that update ships, we'll update this with instructions for windows too.
+
+
 
