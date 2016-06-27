@@ -1,4 +1,4 @@
-Welcome to a new project! In case you need a reminder, here are the steps to get it up and running:
+**These are the ten steps to setting up a website for a client.** They do not cover the interaction with the client or collecting data from the client.  That is covered in the ["following-up" section](../following-up/).
 
 # Step 1: Airtable
 
@@ -237,4 +237,8 @@ I will then clone it on the server, and set it up so that it constantly updates.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XUUeeObFAVY" frameborder="0" allowfullscreen></iframe>
 
+When all of these steps are complete, you are eligible to get paid for this project. Check the ["Settling Up" section of the documentation](../settling-up/) for how that works.
+
 # Step 10: Continue to communicate with your client. 
+
+Just because you've been paid and the site is live doesn't mean your job is over.  You are still the primary support contact for the client.  For more info on your responsibilities, check the ["following-up" section](../following-up/)

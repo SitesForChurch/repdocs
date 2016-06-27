@@ -2,43 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     
-        
     <url>
      <loc>None/</loc>
      <lastmod>2016-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    
+
+    
     <url>
      <loc>None/tooling-up/</loc>
      <lastmod>2016-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    
+
+    
     <url>
      <loc>None/setting-up/</loc>
      <lastmod>2016-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    
+
+    
     <url>
      <loc>None/settling-up/</loc>
      <lastmod>2016-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    
+
+    
     <url>
      <loc>None/following-up/</loc>
      <lastmod>2016-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    
+
+    
     <url>
      <loc>None/powering-up/</loc>
      <lastmod>2016-06-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
     
 
 </urlset>

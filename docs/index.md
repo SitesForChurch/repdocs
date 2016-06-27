@@ -1,3 +1,6 @@
+
+![](https://dl.dropboxusercontent.com/u/47159282/SitesforchurchLogo.png)
+
 **Welcome to the Sitesfor.church site reps program.**  We are constantly working on improving this documentation to make it easier for you to set up sites, work with clients, help churches and make money.  
 
 ## Recommendations 
